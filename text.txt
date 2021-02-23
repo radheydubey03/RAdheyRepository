@@ -1,0 +1,500 @@
+   36  pwd
+   37  ls
+   38  cd usr
+   39  ls
+   40  ls
+   41  cd user
+   42  ls
+   43  cd radhey
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd Downloads/
+   48  ls
+   49  cd ..
+   50  ls
+   51  pwd
+   52  ls
+   53  cd /
+   54  ls
+   55  cd usr
+   56  ls
+   57  cd local/
+   58  ls
+   59  cd mysql
+   60  ls
+   61  cd support-files/
+   62  ls
+   63  cd mysql.server start
+   64  sudo /usr/local/mysql/support-files/mysql.server start
+   65  ps -eaf
+   66  ps -ef 
+   67  ps -ea
+   68  ps
+   69  ps -eaf | grep apache
+   70  ps -ef | grep apache
+   71  ps -eaf | grep tomcat
+   72  ps -eaf
+   73  ps -ef | grep tomcat
+   74  kill 943
+   75  sudo /usr/local/ls
+   76  sudo /usr/local/mysql/support-files/mysql.server start
+   77  sudo /usr/local/mysql/support-files/mysql.server start
+   78  javap 
+   79  ifconfig -a | more
+   80  pwd
+   81  ls
+   82  cd Downloads/
+   83  ssh -i ./java8.pem ubuntu@13.233.44.191
+   84  sudo ssh -i ./java8.pem ubuntu@13.233.44.191
+   85  sudo ssh -i ./java8.pem ubuntu@52.66.53.191
+   86  cd Downloads/
+   87  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   88  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   89  ping 10.0.1.171
+   90  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   91  pwd
+   92  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   93  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   94  pwd
+   95  cd Downloads/
+   96  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   97  sudo ssh -i java8.pem ubuntu@13.233.163.84
+   98  cd Downloads/
+   99  ls
+  100  ls
+  101  scp java8.pem ubuntu@13.233.163.84
+  102  apple123
+  103  pwd
+  104  scp -i java8.pem java8.pem ubuntu@13.233.163.84 
+  105  scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  106  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  107  ls -alsrt
+  108  chmod 777 java8.pem 
+  109  scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  110  chmod 764 java8.pem 
+  111  scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  112  chmod 777 java8.pem 
+  113  scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  114  chmod 700 java8.pem 
+  115  scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  116  chmod 600 java8.pem 
+  117  scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  118  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  119  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/ 
+  120  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt
+  121  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt
+  122  sudo chmod 777 java8.pem 
+  123  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt
+  124  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt
+  125  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt
+  126  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/
+  127  ping 13.233.163.84
+  128  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/home/ubuntu/
+  129  ls
+  130  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/opt/
+  131  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/home/ubuntu/
+  132  cd Downloads/
+  133  ls
+  134  sudo ssh -i java8.pem ubuntu@13.126.88.81
+  135  ping 172.31.46.197
+  136  sudo scp -i java8.pem java8.pem ubuntu@13.233.163.84:/home/ubuntu/
+  137  ls
+  138  ls
+  139  cd Downloads/
+  140  ls
+  141  sudo ssh -i java8.pem ubuntu@13.127.92.59
+  142  pwd
+  143  sudo ssh -i ubuntu@13.234.19.150
+  144  sudo ssh -i java8.pem ubuntu@13.234.19.150
+  145  sudo ssh -i java8.pem ubuntu@13.234.19.150
+  146  sudo ssh -i java8.pem ubuntu@13.234.19.150
+  147  cd Downloads/
+  148  ls
+  149  sudo ssh -i java8.pem ubuntu@13.233.139.233
+  150  cd Downloads/
+  151  ls
+  152  ls
+  153  sudo ssh -i java8.pem ubuntu@35.154.10.95
+  154  cd Downloads/
+  155  ls
+  156  sudo ssh -i java8.pem ubuntu@3.6.87.168
+  157  ifconfig
+  158  ps -eaf
+  159  ifconfig
+  160  ifconfig
+  161  ping 196.1.105.47
+  162  ping 192.168.102.56
+  163  telnet 192.168.102.56
+  164  ssh aaa@192.168.102.56
+  165  ping 172.16.3.30
+  166  ping 172.16.3.10
+  167  telnet 172.16.3.90
+  168  ifocnifg
+  169  ifocnfig
+  170  ifconfig
+  171  ping 192.168.43.136
+  172  ping 192.168.102.123
+  173  ls
+  174  cd
+  175  sudo
+  176  root
+  177  root
+  178  su
+  179  apple123
+  180  su
+  181  su root123
+  182  su root
+  183  su root
+  184  su root
+  185  su root
+  186  su root
+  187  ls
+  188  cd Downloads/
+  189  ls
+  190  chmod 400 keypem.pem 
+  191  ls
+  192  ls
+  193  ls -a
+  194  ls
+  195  ls -a
+  196  ssh -i keypem.pem ubuntuServer@3.138.204.116
+  197  ssh -i keypem.pem ubuntuServer@3.138.204.116
+  198  ssh -i keypem.pem ubuntuServer@3.138.204.116
+  199  ls
+  200  ssh -i keypem.pem ubuntuServer@3.138.204.116
+  201  ssh -i keypem.pem ubuntuServer@@3.138.204.116
+  202  ping 3.138.204.116
+  203  ssh -i keypem.pem ubuntuServer@@3.138.204.116
+  204  ifconfig
+  205  ssh -i keypem.pem ubuntuServer@@3.138.204.116
+  206  ssh -i keypem.pem ubuntu@@3.138.204.116
+  207  ssh -i keypem.pem ec2-ubuntu@@3.138.204.116
+  208  ssh -i keypem.pem ec2-user@3.138.204.116
+  209  ls
+  210  pwd
+  211  ls
+  212  ca
+  213  which mvn
+  214  which maven
+  215  ls
+  216  echo $
+  217  pa
+  218  echo $PATH
+  219  echo $JAVA
+  220  echo $JAVA_HOME
+  221  vim .bash_profile
+  222  cat .bash_profile
+  223  java 
+  224  cat .bash_profile
+  225  java -version
+  226  vim .bash_profile
+  227  vim .bash_profile
+  228  java -version
+  229  pwd
+  230  source .bash_profile
+  231  java -version
+  232  pwd
+  233  cd ..
+  234  ls
+  235  cd sh
+  236  exit
+  237  java -version
+  238  echo $JAVA_HOME
+  239  cat .bash_profile
+  240  echo $PATH
+  241  javac -version
+  242  cat .bash_sessions/
+  243  cat .bash_history 
+  244  clear
+  245  which java
+  246  which javac
+  247  vim .bash_profile
+  248  cd /usr/bin/
+  249  ls
+  250  pwd
+  251  which jar
+  252  cd /usr/local/bin/
+  253  ls
+  254  ls
+  255  cd ..
+  256  ls
+  257  pwd
+  258  cd ..
+  259  which mysql
+  260  cd pwd
+  261  pwd
+  262  ls
+  263  cd local/
+  264  ls
+  265  cd mysql
+  266  ls
+  267  pwd
+  268  ls
+  269  cd bin/
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd var/
+  274  ls
+  275  cd lib/
+  276  ls
+  277  cd mysqlrouter/
+  278  ls
+  279  cd ..
+  280  cd ..
+  281  ls
+  282  cd ..
+  283  pwd
+  284  ls
+  285  ls -la 
+  286  ls -la | grep *log
+  287  grep *log
+  288  ls
+  289  maven
+  290  mvn -version
+  291  ls
+  292  which tomcat
+  293  ifconfig
+  294  grep apache* .
+  295  grep apache *
+  296  history
+  297  ls
+  298  which history
+  299  grep histry
+  300  grep histry *
+  301  ls
+  302  pwd
+  303  ls
+  304  ls
+  305  ls
+  306  ls
+  307  pwd
+  308  pwd
+  309  ls
+  310  which bin
+  311  grep bin
+  312  ls
+  313  cd /usr/
+  314  ls
+  315  cd libexec/
+  316  ls -v
+  317  exit
+  318  pwd
+  319  ls
+  320  pwd
+  321  cd Downloads/
+  322  cd apache-tomcat-9.0.14
+  323  cd bin/
+  324  pwd
+  325  ls
+  326  cd Library/
+  327  ls
+  328  cd ..
+  329  ls
+  330  cd 
+  331  cd 
+  332  cd Downloads/
+  333  ls
+  334  cd ..
+  335  ls
+  336  cd /
+  337  ls
+  338  cd usr/
+  339  ls
+  340  cd bin/
+  341  ls
+  342  ls
+  343  cd ..
+  344  ls
+  345  cd libexec/
+  346  ls
+  347  sort -k1.1,1.8 -k1.9n
+  348  history
+  349  history >> history_File.txt
+  350  ls
+  351  cat history_File.txt 
+  352  ls
+  353  cat history_File.txt >> newFile.txt
+  354  "HI TEST COMMENT" >> test.txt
+  355  'HI TEST COMMENT' >> test.txt
+  356  which tomcat
+  357  ls
+  358  echo $PATH
+  359  cat .bash_profile
+  360  maven
+  361  catlina.sh
+  362  vim .bash_profile
+  363  source .bash_profile
+  364  ls
+  365  ls
+  366  cd Downloads/
+  367  ls
+  368  cd apache-tomcat-9.0.14
+  369  ls
+  370  cd bin/
+  371  ls
+  372  ls
+  373  clear
+  374  ls -la
+  375  ./startup.sh
+  376  chmod 777 startup.sh 
+  377  ./startup.sh
+  378  vi startup.sh 
+  379  ls -la
+  380  chmod 777 catalina.sh 
+  381  ./startup.sh
+  382  ls
+  383  cd ..
+  384  ls
+  385  cd logs/
+  386  ls
+  387  ls -la
+  388  cat catalina.out 
+  389  tail -f catalina.out 
+  390  tail -100f catalina.out 
+  391  ls
+  392  cd ..
+  393  ls
+  394  cd conf/
+  395  ls
+  396  vi server.xml 
+  397  ps -eaf
+  398  ps -eaf : 8080
+  399  sudo netstat -nlp | grep :80
+  400  netstat -nlp | grep 8080
+  401  netstat -nlp 
+  402  netstat -p
+  403  netstat -ltnp | grep -w ':80' 
+  404  sudo lsof -nP -iTCP:8080 | grep LISTEN
+  405  kill 27649
+  406  sudo kill 27649
+  407  sudo lsof -nP -iTCP:8080 | grep LISTEN
+  408  ls
+  409  vim server.xml 
+  410  cd ../bin/
+  411  ./startup.sh 
+  412  tail -100f ../logs/catalina.out 
+  413  ls
+  414  chmod 777 *.sh
+  415  ./shutdown.sh 
+  416  ./catalina.sh start
+  417  tail -100f ../logs/catalina.out 
+  418  ls
+  419  cd /usr/bin/
+  420  ls
+  421  ls -la
+  422  ls -la | grep host
+  423  cat host
+  424  cat hostinfo 
+  425  cat host >> host >> /Users/apple/Desktop/hostentry.txt
+  426   host >> /Users/apple/Desktop/hostentry.txt
+  427  cat host >> /Users/apple/Desktop/hostentry.txt
+  428  cat hostinfo >> /Users/apple/Desktop/hostentryinfo.txt
+  429  catlina.sh
+  430  ls
+  431  vi .bash_profile
+  432  source .bash_profile
+  433  exit
+  434  catlina.sh
+  435  ./catlina.sh
+  436  ls
+  437  exit
+  438  ls
+  439  pwd
+  440  ls
+  441  cd Downloads/
+  442  ssh -i newkey.pem ubuntu@18.222.161.129
+  443  ssh -i newkey.pem ubuntu@18.189.184.236
+  444  ls
+  445  where is bash_profile
+  446  whereis bash_profile
+  447  whereis bash_profile
+  448  ls
+  449  ls
+  450  pwd
+  451  ls
+  452  cd ..
+  453  ls
+  454  pwd
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd apple/
+  459  ls
+  460  cat cat $PATH
+  461  cat cat $BASH
+  462  ls
+  463  cat history_File.txt 
+  464  ls
+  465  ifconfig
+  466  tracert
+  467  ls
+  468  tracert www.google.co.in
+  469  tracert www.google.co.in
+  470  ipconfig
+  471  ifconfig
+  472  ifconfig
+  473  ifconfig -a
+  474  ifconfig -al
+  475  ls
+  476  netsta
+  477  netstate
+  478  netst
+  479  netstat
+  480  ls
+  481  brew --version
+  482  brew
+  483  git --version
+  484  pwd
+  485  ls
+  486  cd 
+  487  cd Download
+  488  ls
+  489  cd Downloads/
+  490  ls
+  491  git --version
+  492  brew
+  493  su
+  494  sudo
+  495  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  496  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  497  return
+  498  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  499  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  500  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  501  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  502  brew
+  503  ls
+  504  git --version
+  505  ifconfig
+  506  ls
+  507  git version
+  508  brew install git
+  509  apt-get install git
+  510  brew install git
+  511  brew install git
+  512  brew install git
+  513  git
+  514  git -v
+  515  git -version
+  516  git -Version
+  517  git --help
+  518  pwd
+  519  ls
+  520  cd mkdir
+  521  mkdir githubcodereposity
+  522  cd githubcodereposity/
+  523  clear
+  524  mkdir javaproject
+  525  cd javaproject/
+  526  clear
+  527  pwd
+  528  git init
+  529  ls
+  530  ls -la
+  531  touch text.txt << hi
+  532  ls
+  533  touch text.txt
+  534  ls
+  535  history >> text.txt
